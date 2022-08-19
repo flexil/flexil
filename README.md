@@ -76,13 +76,13 @@ I'm maximilien Kpizingui, a machine learning and IoT engineer 👨‍💻 workin
 <a href="https://github.com/https://github.com/flexil" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/kpizmax" target="_blank">
+<a href="https://https://twitter.com/kpizmax" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ephrem-maximilien-kpizingui-48222775/" target="_blank">
+<a href="https://www.linkedin.com/in/ephrem-maximilien-kpizingui-48222775/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@https://kpizmax.hashnode.dev/" target="">
+<a href="https://kpizmax.hashnode.dev/" target="">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
 </div>  
