@@ -1,5 +1,5 @@
 ### <div align="center">Hello,
-I'm maximilien Kpizingui, a machine learning and IoT engineer 👨‍💻 working remotely since 2019 🚀. I am open to work as a data scientist, data analytics , machine learning engineer and IoT engineer</div>  
+I'm maximilien Kpizingui, a machine learning and IoT engineer 👨‍💻 working remotely since 2019 🚀. I am open to work as a data analytics, data analytics  , machine learning engineer and IoT engineer</div>  
   
 
 - ❓ Ask me about anything related to  data analytics, data science,machine learning and internet of thing  
