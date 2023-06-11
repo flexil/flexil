@@ -1,11 +1,8 @@
 ### <div align="center">Hello,
-I'm maximilien Kpizingui, an electronic and microwave engineer turned  into a machine learning and IoT engineer 👨‍💻 working remotely since 2019 🚀. 
-I graduated from dphi in data analysis & visualization, data science, deep learning, natural language processing, explainable artificial intelligence and unsupervised machine learning.
-In August 2022, I graduated from advanced data analytics nanodegree scholarship from Udacity.
-I am open to work as a data scientist, machine learning, artificial intelligence and IoT engineer</div>  
+I am Maximilien, AI & IoT professional with expertise in machine learning, deep learning, large language models, and crypto. I leverage DevOps and MLOps to build data science and AI solutions for startups. I have a strong background in langchain framework, openAI , transformers to build generative AI applications . I am committed to staying up-to-date with the latest advances in AI technology and applying them to solve real-world problems.</div>  
   
 
-- ❓ Ask me about anything related to  data analytics, data science,machine learning and internet of things  
+- ❓ Ask me about anything related to  data analytics, data science,AI and internet of things  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
