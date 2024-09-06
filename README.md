@@ -11,7 +11,7 @@
 With soft skills in communication, collaboration, strategic thinking, adaptability, empathy, leadership, and time management. I am commercially aware, I deliver results-driven AI solutions that help business and companies to grow and drive impact in the world.</div>  
   
 
-- ❓ Ask me about anything related to  data analytics, data science,AI and internet of things  
+- ❓ Ask me about anything related to  machine learning ,generative AI and internet of things  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
