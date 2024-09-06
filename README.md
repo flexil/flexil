@@ -1,5 +1,14 @@
 ### <div align="center">Hello,
-I am Maximilien, AI & IoT professional with expertise in machine learning, deep learning, large language models, and crypto. I leverage DevOps and MLOps to build data science and AI solutions for startups. I have a strong background in langchain framework, openAI , transformers to build generative AI applications . I am committed to staying up-to-date with the latest advances in AI technology and applying them to solve real-world problems.</div>  
+AI & IoT professional, I leverage my expertise in machine learning, deep learning, large language models, and edge AI to empower startups and solve complex problems. My proficiency spans:
+
+- Machine Learning (ML) and Deep Learning (DL)
+- Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents
+- OpenAGI, cryptocurrency applications, and MLOps
+- LangChain, OpenAI, Transformers, and generative AI
+- LLMa Index, CrewAI, Autogen, Stable Diffusion, and BeyondLLM
+- AI at Edge for real-time processing and reduced latency
+
+With soft skills in communication, collaboration, strategic thinking, adaptability, empathy, leadership, and time management. I am commercially aware, I deliver results-driven AI solutions that help business and companies to grow and drive impact in the world.</div>  
   
 
 - ❓ Ask me about anything related to  data analytics, data science,AI and internet of things  
