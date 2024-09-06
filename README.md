@@ -1,5 +1,5 @@
-### <div align="center">Hello, $whoamI,
-AI & IoT professional, I leverage my expertise in machine learning, deep learning, large language models, and edge AI to empower startups and solve complex problems. My proficiency spans:
+### <div align="center">Hello,
+ $whoamI>> AI & IoT professional, I leverage my expertise in machine learning, deep learning, large language models, and edge AI to empower startups and solve complex problems. My proficiency spans:
 
 - Machine Learning (ML) and Deep Learning (DL)
 - Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents
