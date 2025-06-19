@@ -1,5 +1,5 @@
 ### <div align="center">$whoamI,
->> AI & IoT professional, I leverage my expertise in machine learning, deep learning, large language models, AI agents, MLOps, LMOps and AgentOps. 
+>> AI & IoT Engineer, I leverage my expertise in machine learning, deep learning, large language models, AI agents, MLOps, LMOps and AgentOps. 
 
 With soft skills in communication, collaboration, strategic thinking and time management. 
 
